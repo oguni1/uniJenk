@@ -1,8 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<testsuite name="testproject.CalculatorTest" tests="2" skipped="0" failures="0" errors="0" timestamp="2023-12-19T20:01:18" hostname="DESKTOP-CVVUHM9" time="0.003">
+<testsuite name="testproject.CalculatorTest" tests="1" skipped="0" failures="0" errors="0" timestamp="2023-12-19T20:27:02" hostname="DESKTOP-CVVUHM9" time="0.037">
   <properties/>
-  <testcase name="testSum()" classname="testproject.CalculatorTest" time="0.002"/>
-  <testcase name="testSubtract()" classname="testproject.CalculatorTest" time="0.0"/>
+  <testcase name="testSum()" classname="testproject.CalculatorTest" time="0.037"/>
   <system-out><![CDATA[]]></system-out>
   <system-err><![CDATA[]]></system-err>
 </testsuite>
